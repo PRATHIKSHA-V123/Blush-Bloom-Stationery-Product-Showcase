@@ -2,8 +2,7 @@
 
 A responsive stationery product catalog built with plain HTML, CSS and JavaScript. Visitors can browse products, search, filter by category, sort by price, open a product page, save favourites and manage a shopping cart. It is a static site with no build step, so it deploys easily to Vercel, Netlify or Render.
 
-**Live URL:** `<add your deployed link here>`
-**Repository:** `<add your GitHub link here>`
+**Live URL:** https://prathiksha-v123.github.io/Blush-Bloom-Stationery-Product-Showcase/
 
 ---
 
